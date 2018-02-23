@@ -9,5 +9,8 @@ func main() {
 	// rangeWithUnderscore()
 	// pic.Show(Pic)
 	// map1()
-	mapLiterals()
+	// mapLiterals()
+	// literals2()
+	// mutations()
+	callWordCount()
 }
