@@ -14,5 +14,6 @@ func main() {
 	// mutations()
 	// callWordCount()
 	// funkyVals()
-	testClosure()
+	// testClosure()
+	returnFib()
 }
