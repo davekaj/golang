@@ -12,5 +12,7 @@ func main() {
 	// mapLiterals()
 	// literals2()
 	// mutations()
-	callWordCount()
+	// callWordCount()
+	// funkyVals()
+	testClosure()
 }
