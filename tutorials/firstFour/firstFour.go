@@ -1,6 +1,6 @@
-package main
+package firstFour
 
-func main() {
+func FirstFour() {
 
 	// makeTest()
 	// tictactoe()

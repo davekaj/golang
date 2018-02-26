@@ -1,11 +1,11 @@
-package main
+package oneToFour
 
 import (
 	"fmt"
 	"strings"
 )
 
-func tictactoe() {
+func Tictactoe() {
 
 	board := [][]string{
 		[]string{"_", "_", "_"},

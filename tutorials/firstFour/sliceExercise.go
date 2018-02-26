@@ -1,4 +1,4 @@
-package main
+package oneToFour
 
 func Pic(dx, dy int) [][]uint8 {
 	var xs = make([]([]uint8), dy) //missed the dy, obviously you need the length of the slice added

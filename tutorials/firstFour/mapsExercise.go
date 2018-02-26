@@ -1,4 +1,4 @@
-package main
+package oneToFour
 
 import (
 	"fmt"

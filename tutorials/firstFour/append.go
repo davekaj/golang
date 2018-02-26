@@ -1,10 +1,10 @@
-package main
+package firstFour
 
 import (
 	"fmt"
 )
 
-func appendTest() {
+func AppendTest() {
 
 	var s []int
 	printAppendSlice(s)
