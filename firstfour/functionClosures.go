@@ -1,4 +1,4 @@
-package oneToFour
+package firstfour
 
 import "fmt"
 
@@ -10,7 +10,8 @@ func equation() func(int) int {
 	}
 }
 
-func testClosure() {
+//TestClosure comment
+func TestClosure() {
 	pos, neg := equation(), equation()
 	for i := 0; i < 10; i++ {
 		fmt.Println(

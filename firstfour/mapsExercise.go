@@ -1,4 +1,4 @@
-package oneToFour
+package firstfour
 
 import (
 	"fmt"
@@ -20,7 +20,8 @@ func wordCount(s string) map[string]int {
 	return mappy
 }
 
-func callWordCount() {
+//CallWordCount comment
+func CallWordCount() {
 	var theWords = wordCount("I am learning go! Yes I am!")
 	fmt.Println(theWords)
 }

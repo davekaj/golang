@@ -1,4 +1,4 @@
-package oneToFour
+package firstfour
 
 import (
 	"fmt"
@@ -9,7 +9,8 @@ func compute(fn func(float64, float64) float64) float64 {
 	return fn(3, 4)
 }
 
-func funkyVals() {
+//FunkyVals comment
+func FunkyVals() {
 	hypot := func(x, y float64) float64 {
 		return math.Sqrt(x*x + y*y)
 	}

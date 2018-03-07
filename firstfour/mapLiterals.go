@@ -1,4 +1,4 @@
-package oneToFour
+package firstfour
 
 import (
 	"fmt"
@@ -8,7 +8,8 @@ import (
 
 //map Literals are like struct literals. to me it just looks like these are literally typed, and thats all that is special about them
 
-func mapLiterals() {
+//MapLiterals comment
+func MapLiterals() {
 	var m = map[string]Vertex{
 		"davestest": Vertex{
 			23.2, 55.4,

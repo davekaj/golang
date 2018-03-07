@@ -1,8 +1,9 @@
-package oneToFour
+package firstfour
 
 import "fmt"
 
-func makeTest() {
+//MakeTest comment
+func MakeTest() {
 
 	a := make([]int, 5)
 	printSlice("a", a)

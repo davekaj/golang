@@ -1,4 +1,4 @@
-package firstFour
+package firstfour
 
 import "fmt"
 
@@ -31,7 +31,8 @@ func simpleFibo() func() int {
 	}
 }
 
-func returnFib() {
+//ReturnFib comment
+func ReturnFib() {
 	f := simpleFibo()
 	for i := 0; i < 20; i++ {
 		fmt.Println(f())

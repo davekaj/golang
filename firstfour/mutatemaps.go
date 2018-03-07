@@ -1,10 +1,11 @@
-package oneToFour
+package firstfour
 
 import (
 	"fmt"
 )
 
-func mutations() {
+//Mutations comment
+func Mutations() {
 
 	//make a maping of stinrg to int
 	//update ojne key value, and print

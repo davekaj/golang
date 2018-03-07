@@ -1,9 +1,10 @@
-package firstFour
+package firstfour
 
 import (
 	"fmt"
 )
 
+//AppendTest comment
 func AppendTest() {
 
 	var s []int

@@ -1,0 +1,1 @@
+Just going through a tour of go and practicing each excersize.

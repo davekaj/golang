@@ -1,4 +1,4 @@
-package oneToFour
+package firstfour
 
 import "fmt"
 
@@ -9,8 +9,8 @@ type Vertex struct {
 
 var m map[string]Vertex
 
-//make a map, fill it it, print it
-func map1() {
+//Map1 comment
+func Map1() {
 	m = make(map[string]Vertex)
 	m["DAVES-MAP"] = Vertex{54.44, 80.33}
 	fmt.Println(m["DAVES-MAP"])

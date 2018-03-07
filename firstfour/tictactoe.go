@@ -1,10 +1,11 @@
-package oneToFour
+package firstfour
 
 import (
 	"fmt"
 	"strings"
 )
 
+//Tictactoe comment
 func Tictactoe() {
 
 	board := [][]string{
