@@ -30,7 +30,10 @@ func main() {
 	// methodsandinterface.ReturnFunction()
 	// methodsandinterface.ReturnFloat()
 	// methodsandinterface.PointerReceiver()
-	methodsandinterface.StringersExersize()
-	methodsandinterface.ErrorExcersize()
+	// methodsandinterface.StringersExersize()
+	// methodsandinterface.ErrorExcersize()
+	// methodsandinterface.TestReader()
+	// methodsandinterface.Rot13Export()
+	methodsandinterface.ImageExersize()
 
 }
